@@ -1,0 +1,2 @@
+esse projeto vai ser para dev usar para refatorar código aplicar padrão localizar erros, e junto essa api teremos a api
+que conecta a ela através de rest template ou rabbitmq
